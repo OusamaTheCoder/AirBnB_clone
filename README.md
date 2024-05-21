@@ -124,9 +124,9 @@ This project is licensed under the MIT License.
 
 We welcome contributions! If you'd like to contribute, please feel free to open an issue or submit a pull request.
 
-#Disclaimer
+# Disclaimer
 
-If you happen to use this repo, we scored 117%
+If you happen to use this repo, we scored `117%`
 
 **Authors:**
 
